@@ -57,12 +57,6 @@ dataSet[dataSetVersion].options = [
     name: "Remove Non-Girls",
     key: "notgirl",
     tooltip: "Check this to remove all non-female characters."
-  },
-  {
-    name: "Remove Nameless Characters",
-    key: "nameless",
-    tooltip: "Check this to remove all characters without canonical names.",
-    checked: false
   }
 ];
 
